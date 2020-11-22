@@ -1,7 +1,7 @@
 stores = [
     {
     store_id: '123',
-    storeName: 'McDonalds',
+    storeName: 'Wellness Market',
     apartmentNumber: 411,
     streetname: '4th Street',
     zipcode: 20007,
@@ -23,7 +23,7 @@ stores = [
 
     {
         store_id: '456',
-        storeName: 'Pizza Hut',
+        storeName: 'Juices and Cleanses',
         apartmentNumber: 600,
         streetname: 'Elm Rd',
         zipcode: 47301,
@@ -45,7 +45,7 @@ stores = [
 
     {
         store_id: '789',
-        storeName: 'Taco Bell',
+        storeName: 'Health Ed',
         apartmentNumber: 523,
         streetname: 'Glover Dr',
         zipcode: 43321,
