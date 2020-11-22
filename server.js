@@ -3,9 +3,10 @@ const express = require("express");
 const mongoose = require("mongoose");
 const morgan = require("morgan");
 const app = express();
+require('dotenv').config();
 
 // CONFIGURATIONS
-const PORT = 3030;
+const PORT = process.env.PORT;
 const mongodbURI = "mongodb://localhost:27017/food_orders";
 mongoose.connection;
 
