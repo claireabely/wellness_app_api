@@ -7,7 +7,7 @@ require('dotenv').config();
 
 // CONFIGURATIONS
 const PORT = process.env.PORT;
-const mongodbURI = "mongodb://localhost:27017/food_orders";
+const mongodbURI = process.env.MONOGODB_URI//localhost:27017/wellness_orders";
 mongoose.connection;
 
 // DATABASE
@@ -33,6 +33,7 @@ app.use("/stores", storeController);
 
 const orderController = require("./controllers/orderController");
 app.use("/orders", orderController);
+
 
 // ROUTE
 app.get("/", (req, res) => {

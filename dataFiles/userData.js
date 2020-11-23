@@ -1,7 +1,7 @@
 users = [
     {
-    username: 'jordan111',
-    password: 'jordan'
+    username: 'claire111',
+    password: 'claire'
     },
 
     {

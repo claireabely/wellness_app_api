@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 
 const Schema = mongoose.Schema
 
-const menuItemSchema = require('./menuItemModel')
+// const menuItemSchema = require('./menuItemModel')
 
 
 const storeSchema = new Schema({
@@ -15,9 +15,10 @@ const storeSchema = new Schema({
     imgUrl: {type: String},
     rating: {type: Number},
     tags: [String],
-    menu: [
-      menuItemSchema
-    ]
+    menu: [{
+      type: Schema.Types.ObjectId,
+      ref: "MenuItem",
+  }, ],
 });
 
 const Store = mongoose.model('Store', storeSchema)
