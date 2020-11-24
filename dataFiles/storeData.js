@@ -7,7 +7,7 @@ stores = [{
         phoneNumber: 5062147483,
         imgUrl: "https://i1.wp.com/www.eatthis.com/wp-content/uploads/2018/12/the-golden-mcdonalds-arch.jpg?fit=1200%2C879&ssl=1",
         tags: ["supplements", "herbs", "natural"],
-        menu: [],
+        menu: [ ],
     },
 
     {
@@ -18,7 +18,9 @@ stores = [{
         zipcode: 47301,
         imgUrl: "https://d1ralsognjng37.cloudfront.net/3c2c3cf2-143e-42da-9c05-fca34d50cfd3.jpeg",
         tags: ["juice", "smoothies", "wellness bundles"],
-        menu: [],
+        menu: [
+           
+        ],
     },
 
     {

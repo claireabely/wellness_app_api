@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-
 const Schema = mongoose.Schema;
 
 const menuItemSchema = new Schema({
@@ -14,4 +13,4 @@ const menuItemSchema = new Schema({
 
 const MenuItem = mongoose.model("MenuItem", menuItemSchema);
 
-module.exports = menuItemSchema;
+module.exports = menuItem;
