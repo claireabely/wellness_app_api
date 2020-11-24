@@ -5,13 +5,13 @@ users = [
     },
 
     {
-    username: 'bob222',
-    password: 'bob'
+    username: 'john222',
+    password: 'john'
     },
 
     {
-    username: 'sara123',
-    password: 'sara'
+    username: 'Sarah123',
+    password: 'sarah'
     }
 ]
 

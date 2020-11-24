@@ -25,25 +25,8 @@ mongoose.connect(
     }
 );
 
-// CORS
-// const whitelist = [
-//     "*",
-//     "http://localhost:3030",
-//     "http://localhost:3000",
-//     "https://food-hubbs.herokuapp.com/",
-// ];
-// const corsOptions = {
-//     origin: function(origin, callback) {
-//         if (whitelist.includes(origin)) {
-//             callback(null, true);
-//         } else {
-//             callback(new Error("Not allowed by CORS"));
-//         }
-//     },
-// };
-
 const corsOptions = {
-    origin: ["*", "http://localhost:3000", "https://food-hubbs.herokuapp.com"],
+    origin: ["*", "http://localhost:3000", "https://wellnessapps.herokuapp.com/"],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     preflightContinue: false,
     optionsSuccessStatus: 204,
