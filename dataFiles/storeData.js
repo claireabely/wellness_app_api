@@ -3,13 +3,7 @@ stores = [{
         storeName: "Wellness Market",
         imgUrl: "https://images.squarespace-cdn.com/content/v1/5d37375de47a2a0001071628/1602372864723-FQL85BK2024T2EDI9DPJ/ke17ZwdGBToddI8pDm48kLrQnd3tdlQHoi35tdatgzRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz8CxRD_lte4BsPmEGGAS09NTjnJO9fCHIuJZFekHsS8VbwhKRHeD_fsBnlJq72u68/WebHomeTiles_Nationwide.png?format=500w",
         tags: ["supplements", "herbs", "natural"],
-        menu: [  { 
-            item_id: 'ba',
-            item_id: 'bb',
-            item_id: 'bc',
-            item_id: 'bd',
-            item_id: 'be',
-            } ],
+        menu: [   ],
     },
 
     {
@@ -18,13 +12,7 @@ stores = [{
         imgUrl: "https://d1ralsognjng37.cloudfront.net/3c2c3cf2-143e-42da-9c05-fca34d50cfd3.jpeg",
         tags: ["juice", "smoothies", "wellness bundles"],
         menu: [
-            { 
-                item_id: 'ba',
-                item_id: 'bb',
-                item_id: 'bc',
-                item_id: 'bd',
-                item_id: 'be',
-                }
+         
         ],
     },
 
