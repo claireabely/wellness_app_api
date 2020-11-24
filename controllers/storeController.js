@@ -15,7 +15,7 @@ stores.get("/", (req, res) => {
         }
     });
 });
-stores.get("/menuitems"), (req, res) => {
+stores.get("/seed/menuitems"), (req, res) => {
     MenuItem.create(menuItems, (err, stores) =>{
         if (err) {console.log(err) }    
         console.log('SEED: NEW MENU ITEMS CREATED!')
