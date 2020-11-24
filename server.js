@@ -11,6 +11,7 @@ require("dotenv").config();
 // CONFIGURATIONS
 const PORT = process.env.PORT;
 const mongodbURI = process.env.MONGODB_URI;
+console.log(mongodbURI)
 mongoose.connection;
 
 // DATABASE
@@ -26,7 +27,7 @@ mongoose.connect(
 );
 
 const corsOptions = {
-    origin: ["*", "http://localhost:3000", "https://wellnessapps.herokuapp.com/"],
+    origin: ["*", "http://localhost:3000", "https://wellnessapps-react.herokuapp.com/"],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     preflightContinue: false,
     optionsSuccessStatus: 204,
