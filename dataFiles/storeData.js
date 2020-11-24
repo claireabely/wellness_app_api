@@ -33,13 +33,7 @@ stores = [{
         storeName: "Local Delivery",
         imgUrl: "https://images.squarespace-cdn.com/content/v1/5d37375de47a2a0001071628/1602372830113-XGUCGHL6DZ46C2724UB2/ke17ZwdGBToddI8pDm48kLrQnd3tdlQHoi35tdatgzRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz8CxRD_lte4BsPmEGGAS09NTjnJO9fCHIuJZFekHsS8VbwhKRHeD_fsBnlJq72u68/WebHomeTiles_Local.png?format=500w",
         tags: ["smoothies", "salad", "vegan"],
-        menu: [  { 
-            item_id: 'ba',
-            item_id: 'bb',
-            item_id: 'bc',
-            item_id: 'bd',
-            item_id: 'be',
-            }],
+        menu: [],
     },
 
     {
@@ -47,14 +41,8 @@ stores = [{
         storeName: "Nationwide Shipping",
         imgUrl: "https://images.squarespace-cdn.com/content/v1/5d37375de47a2a0001071628/1602372864723-FQL85BK2024T2EDI9DPJ/ke17ZwdGBToddI8pDm48kLrQnd3tdlQHoi35tdatgzRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz8CxRD_lte4BsPmEGGAS09NTjnJO9fCHIuJZFekHsS8VbwhKRHeD_fsBnlJq72u68/WebHomeTiles_Nationwide.png?format=500w",
         rating: 2.5,
-        tags: ["fried chicken"],
-        menu: [  { 
-            item_id: 'ba',
-            item_id: 'bb',
-            item_id: 'bc',
-            item_id: 'bd',
-            item_id: 'be',
-            }],
+        tags: ["smoothies", "salad", "vegan"],
+        menu: [],
     },
     {
         store_id: "789",
@@ -62,13 +50,7 @@ stores = [{
         imgUrl: "https://images.squarespace-cdn.com/content/v1/5d37375de47a2a0001071628/1583763570285-48N2DO0U0J9X60RBCH6E/ke17ZwdGBToddI8pDm48kLBnCuLS4rYL7yVlMx_8oR57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UeSDz6IyKK09zZ-7q_gpQHSSpVyuY93tgEx5P2GE3RQd71VtgaaASevlyRsadXtEgw/IMG_1487.jpg?format=500w",
         rating: 3.1,
         tags: ["CBD", "health", "health"],
-        menu: [  { 
-            item_id: 'ba',
-            item_id: 'bb',
-            item_id: 'bc',
-            item_id: 'bd',
-            item_id: 'be',
-            }],
+        menu: [],
     },
     
 ];
