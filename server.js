@@ -27,7 +27,7 @@ mongoose.connect(
 );
 
 const corsOptions = {
-    origin: ["*", "http://localhost:3000", "https://wellnessapps-react.herokuapp.com/"],
+    origin: ["*", "http://localhost:3000", "https://wellnessapps.herokuapp.com/"],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     preflightContinue: false,
     optionsSuccessStatus: 204,
