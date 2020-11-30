@@ -8,8 +8,10 @@ const orderSchema = new Schema({
     phoneNumber: { type: Number },
     delivery: { type: Boolean },
     order: [{
+        item_name: {type: String},
         item_id: { type: String },
         quantity: { type: Number },
+
     }, ],
 }, {
     timestamps: true,

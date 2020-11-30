@@ -6,7 +6,7 @@ const newOrders = require("../dataFiles/orderData.js");
 // ROUTES
 // read - all orders
 orders.get("/", (req, res) => {
-  Order.find({})
+  Order.find({}).populate("order")
     .sort({ createdAt: 1 })
     .exec(function (error, foundOrders) {
       if (error) {
