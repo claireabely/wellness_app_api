@@ -28,7 +28,7 @@ menuItems = [{
     store_id: "789",
     name: "Blue Magic Smoothie",
     description: "Vanilla",
-    imgURL: "https://res.cloudinary.com/druhu3xb6/image/upload/w_340,c_scale,q_auto:eco,f_auto,e_sharpen:120,dpr_2/v1605301398/c2750db8-a749-48f4-8574-cf30e29cc488/menu/storeItems/uxbnb8xuamdl7z39trvz.png",
+    imgURL: "https://res.cloudinary.com/druhu3xb6/image/upload/w_340,c_scale,q_auto:eco,f_auto,e_sharpen:120,dpr_2/v1598294933/c2750db8-a749-48f4-8574-cf30e29cc488/menu/storeItemGroup/yirccpobjib0jn41ubzh.png",
     price: 2.7,
 },
 
@@ -36,7 +36,7 @@ menuItems = [{
     store_id: "789",
     name: "Beet Juice",
     description: "Cleanse",
-    imgURL: "https://res.cloudinary.com/druhu3xb6/image/upload/w_340,c_scale,q_auto:eco,f_auto,e_sharpen:120,dpr_2/v1605301398/c2750db8-a749-48f4-8574-cf30e29cc488/menu/storeItems/uxbnb8xuamdl7z39trvz.png",
+    imgURL: "https://res.cloudinary.com/druhu3xb6/image/upload/w_340,c_scale,q_auto:eco,f_auto,e_sharpen:120,dpr_2/v1594134914/c2750db8-a749-48f4-8574-cf30e29cc488/menu/storeItemGroup/p4h1mvpajd95tekbisof.png",
     price: 8,
 },
 
@@ -44,7 +44,7 @@ menuItems = [{
     store_id: "789",
     name: "Charcoal Lemon Cayenne",
     description: "Cleanse",
-    imgURL: "https://res.cloudinary.com/druhu3xb6/image/upload/w_340,c_scale,q_auto:eco,f_auto,e_sharpen:120,dpr_2/v1605301398/c2750db8-a749-48f4-8574-cf30e29cc488/menu/storeItems/uxbnb8xuamdl7z39trvz.png",
+    imgURL: "https://res.cloudinary.com/druhu3xb6/image/upload/w_340,c_scale,q_auto:eco,f_auto,e_sharpen:120,dpr_2/v1593215934/c2750db8-a749-48f4-8574-cf30e29cc488/menu/storeItemGroup/ev3wunjxtgnlkoukaheg.png",
     price: 6.25,
 },
 
@@ -52,7 +52,7 @@ menuItems = [{
     store_id: "123",
     name: "Imperfect Produce",
     description: "Produce Bundle",
-    imgURL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6R6r1u25a7DU3fT76xQn3nwRiKexbBgLKw&usqp=CAUhttps://images.squarespace-cdn.com/content/v1/5d37375de47a2a0001071628/1602372830113-XGUCGHL6DZ46C2724UB2/ke17ZwdGBToddI8pDm48kLrQnd3tdlQHoi35tdatgzRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpz8CxRD_lte4BsPmEGGAS09NTjnJO9fCHIuJZFekHsS8VbwhKRHeD_fsBnlJq72u68/WebHomeTiles_Local.png?format=500w",
+    imgURL: "https://res.cloudinary.com/druhu3xb6/image/upload/w_340,c_scale,q_auto:eco,f_auto,e_sharpen:120,dpr_2/v1604937003/c2750db8-a749-48f4-8574-cf30e29cc488/menu/storeItems/khtp3jogctuq8noizq9h.png",
     price: 6.25,
 },
 
